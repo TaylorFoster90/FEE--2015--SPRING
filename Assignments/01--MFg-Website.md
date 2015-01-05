@@ -28,12 +28,9 @@ After completing this assignment, you should...
 
 After completing this assignment, you be able to effectively use...
 
-* Cloud 9 IDE to:
-    * clone a project from Github
-    * create and edit files
-    * view your changes in real time
 * Github to:
-    * create and edit files (maybe a little)
+    * create a branch   
+    * create and edit files and folders (directories)
     * open a Pull Request (PR) from a branch
     * create and link Issues to PRs
 * `git` to:
@@ -82,13 +79,7 @@ After completing this assignment, you be able to effectively use...
     * [ ] Create a new page in your `TIY-Assignments` wiki called _Growth and Fixed Mindset_
     * [ ] Write down _at least 3_ key attributes of each mindset using Markdown bullets
 * [ ] **Yak Shaving** -- The invisible tasks...
-    * [ ] Login to Cloud 9 and open your `TIY-Assignments` workspace
-    * Use the Terminal in Cloud 9 to:
-        * [ ] create a branch called `feature/01--mfg-website` with `git branch`
-        * [ ] switch to the branch you just created with `git checkout`
-    * [ ] Create at least one file and directory as instructed.
-    * [ ] Add and commit your work with `git status`, `git add`, and `git commit`
-    * [ ] Push your commits to Github with `git push`
+    * [ ] Use the Github web interface to create a branch called `feature/01--mfg-website`
     * [ ] In Github, open a PR _from_ `feature/01--mfg-website` _into_ `master`
 * [ ] **Reading HTML** -- Document 10 _block-level_ HTML elements and **commit after each!**
     * [ ] Checkpoint: Created and committed `docs/HTML.md`!
@@ -161,3 +152,4 @@ matter. </p>
 * [Learn to :heart: `git`](http://j.mp/1GX4FFD)
 * [Learn to :heart: HTML](http://j.mp/1rRr6dK)
 * [Learn to :heart: Markdown](http://j.mp/1rRsxZu)
+* [Notes for 2015-01-05](../Notes/2015-01-15.md)
