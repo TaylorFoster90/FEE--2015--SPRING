@@ -152,4 +152,4 @@ matter. </p>
 * [Learn to :heart: `git`](http://j.mp/1GX4FFD)
 * [Learn to :heart: HTML](http://j.mp/1rRr6dK)
 * [Learn to :heart: Markdown](http://j.mp/1rRsxZu)
-* [Notes for 2015-01-05](../Notes/2015-01-15.md)
+* [Notes for 2015-01-05](../Notes/2015-01-05.md)
