@@ -70,6 +70,7 @@ After completing this assignment, you should be able to effectively use...
 * [ ] **Yak Shaving** -- There's always one more...
     * [X] Create a new _WIP Issue_ in the class repo titled `02 -- Learning Layout -- YOUR NAME`
     * [ ] Add these checkboxes as the description!
+    * [ ] Add T-shirt estimates to the _top-level_ tasks!
     * [ ] [Login to Cloud 9 IDE](http://c9.io/login) using your Github account
     * [ ] Clone your `TIY-Assignments` repository into a new Workspace and open it
     * [ ] Using the Terminal, create a new branch from `master` called `feature/02--learning-layout` and switch to it (hint: `checkout`)
