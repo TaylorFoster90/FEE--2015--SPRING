@@ -41,13 +41,13 @@ After completing this assignment, you should be comfortable using...
     * create simple design references (screenshots)
     * markup design documents to aid in development
     * export marked up documents for inclusion in source control
-* Cloud 9 IDE to:
+* [Cloud 9 IDE](http://c9.io) to:
     * create and edit files and folders
     * upload assets for inclusion in the project
     * add commit history and push to Github
     * preview work in progress
     * review work with peers
-* HTML and CSS to:
+* [HTML and CSS](http://learn.shayhowe.com/html-css/) to:
     * convey document meaning through semantic usage
     * produce fluid layout matching a design specification
 * `git` branches to isolate changes
@@ -187,7 +187,7 @@ After completing this assignment, you should be comfortable using...
 * [HTML Attribute reference on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [The Iron Yard -- Orlando](http://orlando.theironyard.com)
 * [The Longform Tumblr theme](https://www.pixelunion.net/themes/tumblr/longform)
-* [_Fixed vs Fluid vs Elastic Layout_ on Smashing Magazine](http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/) (**2009**)
-* [_Applying Divine Propotions to Your Web Designs_ on Smashing Magazine(http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/) (**2008**)
+* [_Fixed vs Fluid vs Elastic Layout_ on Smashing Magazine](http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/) (from **2009**)
+* [_Applying Divine Propotions to Your Web Designs_ on Smashing Magazine](http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/) (from **2008**)
 * [_Global Market Share Stats_](http://w3counter.com)
-* [_Create Fluid Layouts with HTML5 and CSS3_ on CreativeBloq.com](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768) (**2014**)
+* [_Create Fluid Layouts with HTML5 and CSS3_ on CreativeBloq.com](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768) (from **2014**)
