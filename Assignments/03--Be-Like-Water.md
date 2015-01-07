@@ -61,7 +61,7 @@ After completing this assignment, you should be comfortable using...
     * estimates for the top-level tasks
 * A [Rough Draft](http://www.studygs.net/writing/roughdrafts.htm) for your _Growth and Fixed Mindset_ essay in your wiki page
 * A branch in your `TIY-Assignments` repository _based on `master`_ called `feature/03--like-water` with:
-    * documentation of the HTML attributes for the tags you've already documented added to `docs/HTML.md` per the format provided
+    * documentation of the HTML attributes for the tags you've already documented added to `docs/HTML.md` per the format provided in **Requirements**
     * marked up design specifications (screenshots) in `specs/`
     * at least one commit clearing or deleting your `pub/index.html` file
     * multiple commits adding HTML and CSS into `pub/index.html` to provide a liquid-style layout that:
